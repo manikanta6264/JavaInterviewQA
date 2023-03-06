@@ -1,4 +1,4 @@
-package com.corejava.qa;
+package com.corejava.staticdemo;
 
 public class Parent{
 
